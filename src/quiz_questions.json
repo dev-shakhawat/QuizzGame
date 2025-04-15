@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Hydrogen",
+            "Nitrogen",
+            "Oxygen",
+            "Carbon Dioxide"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 2,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markup Language",
+            "Home Tool Markup Language",
+            "HyperText Markdown Language",
+            "Hyper Trainer Marking Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 3,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "%",
+            "px",
+            "pt",
+            "em"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 4,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "new",
+            "define",
+            "var",
+            "set"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 5,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useRef",
+            "useContext",
+            "useState",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 6,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "30",
+            "25",
+            "35",
+            "40"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 7,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "105\u00b0C",
+            "100\u00b0C",
+            "95\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 8,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<href>",
+            "<url>",
+            "<link>",
+            "<a>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 9,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "pt",
+            "%",
+            "em",
+            "px"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 10,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "object",
+            "boolean",
+            "undefined",
+            "null"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 11,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useContext",
+            "useState",
+            "useRef",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 12,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.15",
+            "3.14",
+            "3.16",
+            "3.12"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 13,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Carbon Dioxide",
+            "Hydrogen",
+            "Nitrogen",
+            "Oxygen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 14,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<tr>",
+            "<table>",
+            "<td>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 15,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "em",
+            "%",
+            "px",
+            "pt"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 16,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "new",
+            "var",
+            "define",
+            "set"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 17,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A variable",
+            "A function",
+            "A style",
+            "A reusable UI block"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 18,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "30",
+            "40",
+            "35",
+            "25"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 19,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 20,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<url>",
+            "<href>",
+            "<a>",
+            "<link>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 21,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "text-size",
+            "font-style",
+            "text-style",
+            "font-size"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 22,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "object",
+            "boolean",
+            "undefined",
+            "null"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 23,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useEffect",
+            "useRef",
+            "useContext",
+            "useState"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 24,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.12"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 25,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "95\u00b0C",
+            "100\u00b0C",
+            "105\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 26,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markup Language",
+            "Hyper Trainer Marking Language",
+            "Home Tool Markup Language",
+            "HyperText Markdown Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 27,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "font-color",
+            "text-color",
+            "color",
+            "text-style"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 28,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parseInt()",
+            "parse()",
+            "int()",
+            "toInteger()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 29,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript Extension",
+            "Java XML Syntax",
+            "Java Syntax XML",
+            "JavaScript XML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 30,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.12",
+            "3.14",
+            "3.15",
+            "3.16"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 31,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "95\u00b0C",
+            "105\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 32,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<table>",
+            "<row>",
+            "<td>",
+            "<tr>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 33,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "text-style",
+            "font-color",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 34,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "set",
+            "define",
+            "new",
+            "var"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 35,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useContext",
+            "useRef",
+            "useEffect",
+            "useState"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 36,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 37,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Earth",
+            "Venus"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 38,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Home Tool Markup Language",
+            "HyperText Markup Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markdown Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 39,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "color",
+            "font-color",
+            "text-style",
+            "text-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 40,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parse()",
+            "toInteger()",
+            "parseInt()",
+            "int()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 41,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useContext",
+            "useEffect",
+            "useRef",
+            "useState"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 42,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "8",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 43,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 44,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markdown Language",
+            "Home Tool Markup Language",
+            "HyperText Markup Language",
+            "Hyper Trainer Marking Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 45,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "px",
+            "pt",
+            "em",
+            "%"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 46,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "boolean",
+            "null",
+            "undefined",
+            "object"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 47,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A function",
+            "A style",
+            "A variable",
+            "A reusable UI block"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 48,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "40",
+            "35",
+            "25",
+            "30"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 49,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "90\u00b0C",
+            "100\u00b0C",
+            "105\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 50,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<td>",
+            "<tr>",
+            "<table>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 51,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "text-style",
+            "text-size",
+            "font-size",
+            "font-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 52,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "undefined",
+            "object",
+            "boolean",
+            "null"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 53,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A style",
+            "A reusable UI block",
+            "A variable",
+            "A function"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 54,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "35",
+            "25",
+            "30",
+            "40"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 55,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "105\u00b0C",
+            "90\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 56,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<a>",
+            "<href>",
+            "<link>",
+            "<url>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 57,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "font-color",
+            "text-style",
+            "text-color",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 58,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "new",
+            "define",
+            "var",
+            "set"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 59,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "Java XML Syntax",
+            "JavaScript Extension",
+            "Java Syntax XML",
+            "JavaScript XML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 60,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "8",
+            "7",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 61,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Jupiter",
+            "Earth",
+            "Venus",
+            "Mars"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 62,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<tr>",
+            "<table>",
+            "<td>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 63,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "font-color",
+            "color",
+            "text-color",
+            "text-style"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 64,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "define",
+            "new",
+            "set",
+            "var"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 65,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useContext",
+            "useRef",
+            "useEffect",
+            "useState"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 66,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "8",
+            "6",
+            "5",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 67,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "90\u00b0C",
+            "100\u00b0C",
+            "105\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 68,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<table>",
+            "<row>",
+            "<tr>",
+            "<td>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 69,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "pt",
+            "%",
+            "px",
+            "em"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 70,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "toInteger()",
+            "parse()",
+            "int()",
+            "parseInt()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 71,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A function",
+            "A style",
+            "A reusable UI block",
+            "A variable"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 72,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "6",
+            "8",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 73,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "105\u00b0C",
+            "90\u00b0C",
+            "95\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 74,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<a>",
+            "<link>",
+            "<url>",
+            "<href>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 75,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "text-style",
+            "font-size",
+            "text-size",
+            "font-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 76,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "define",
+            "set",
+            "var",
+            "new"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 77,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "Java Syntax XML",
+            "JavaScript Extension",
+            "JavaScript XML",
+            "Java XML Syntax"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 78,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.12"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 79,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Carbon Dioxide",
+            "Hydrogen",
+            "Nitrogen",
+            "Oxygen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 80,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<table>",
+            "<row>",
+            "<td>",
+            "<tr>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 81,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "pt",
+            "px",
+            "em",
+            "%"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 82,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "object",
+            "null",
+            "boolean",
+            "undefined"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 83,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useEffect",
+            "useState",
+            "useContext",
+            "useRef"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 84,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.12",
+            "3.15",
+            "3.14",
+            "3.16"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 85,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 86,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Trainer Marking Language",
+            "HyperText Markup Language",
+            "HyperText Markdown Language",
+            "Home Tool Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 87,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-style",
+            "text-color",
+            "font-color",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 88,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "set",
+            "define",
+            "new",
+            "var"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 89,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useContext",
+            "useRef",
+            "useState",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 90,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "7",
+            "5",
+            "6",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 91,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen",
+            "Carbon Dioxide"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 92,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<td>",
+            "<tr>",
+            "<row>",
+            "<table>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 93,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "em",
+            "px",
+            "%",
+            "pt"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 94,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "int()",
+            "parseInt()",
+            "toInteger()",
+            "parse()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 95,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A style",
+            "A variable",
+            "A function",
+            "A reusable UI block"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 96,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.15",
+            "3.16",
+            "3.12",
+            "3.14"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 97,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "105\u00b0C",
+            "90\u00b0C",
+            "95\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 98,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<row>",
+            "<tr>",
+            "<table>",
+            "<td>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 99,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "%",
+            "em",
+            "px",
+            "pt"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 100,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "toInteger()",
+            "parse()",
+            "int()",
+            "parseInt()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 101,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A variable",
+            "A reusable UI block",
+            "A style",
+            "A function"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 102,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.15",
+            "3.12",
+            "3.14",
+            "3.16"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 103,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Mars",
+            "Earth",
+            "Venus",
+            "Jupiter"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 104,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<url>",
+            "<link>",
+            "<a>",
+            "<href>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 105,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "color",
+            "font-color",
+            "text-style",
+            "text-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 106,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parse()",
+            "parseInt()",
+            "int()",
+            "toInteger()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 107,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript XML",
+            "Java XML Syntax",
+            "Java Syntax XML",
+            "JavaScript Extension"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 108,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "7",
+            "5",
+            "8",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 109,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "105\u00b0C",
+            "100\u00b0C",
+            "90\u00b0C",
+            "95\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 110,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Home Tool Markup Language",
+            "HyperText Markdown Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 111,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "font-color",
+            "text-style",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 112,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "define",
+            "set",
+            "new",
+            "var"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 113,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A reusable UI block",
+            "A style",
+            "A function",
+            "A variable"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 114,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "7",
+            "8",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 115,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Hydrogen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Oxygen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 116,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Home Tool Markup Language",
+            "HyperText Markdown Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 117,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "%",
+            "pt",
+            "px",
+            "em"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 118,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "null",
+            "boolean",
+            "undefined",
+            "object"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 119,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useEffect",
+            "useState",
+            "useRef",
+            "useContext"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 120,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "25",
+            "35",
+            "40",
+            "30"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 121,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Earth",
+            "Venus",
+            "Mars",
+            "Jupiter"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 122,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Home Tool Markup Language",
+            "HyperText Markup Language",
+            "HyperText Markdown Language",
+            "Hyper Trainer Marking Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 123,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-size",
+            "text-style",
+            "font-style",
+            "text-size"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 124,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "define",
+            "var",
+            "set",
+            "new"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 125,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A function",
+            "A reusable UI block",
+            "A variable",
+            "A style"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 126,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "40",
+            "35",
+            "25",
+            "30"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 127,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "100\u00b0C",
+            "95\u00b0C",
+            "105\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 128,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<url>",
+            "<link>",
+            "<a>",
+            "<href>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 129,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "text-size",
+            "font-size",
+            "text-style",
+            "font-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 130,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "int()",
+            "toInteger()",
+            "parse()",
+            "parseInt()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 131,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useEffect",
+            "useRef",
+            "useState",
+            "useContext"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 132,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "8",
+            "6",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 133,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "100\u00b0C",
+            "105\u00b0C",
+            "95\u00b0C",
+            "90\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 134,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<table>",
+            "<td>",
+            "<tr>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 135,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "pt",
+            "em",
+            "px",
+            "%"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 136,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "object",
+            "undefined",
+            "boolean",
+            "null"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 137,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A reusable UI block",
+            "A style",
+            "A variable",
+            "A function"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 138,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "35",
+            "40",
+            "30",
+            "25"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 139,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "100\u00b0C",
+            "105\u00b0C",
+            "95\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 140,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<a>",
+            "<link>",
+            "<href>",
+            "<url>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 141,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "font-color",
+            "text-style",
+            "color",
+            "text-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 142,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "new",
+            "var",
+            "set",
+            "define"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 143,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useContext",
+            "useState",
+            "useEffect",
+            "useRef"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 144,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.12",
+            "3.15",
+            "3.16",
+            "3.14"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 145,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "90\u00b0C",
+            "105\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 146,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markup Language",
+            "Home Tool Markup Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markdown Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 147,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "text-style",
+            "text-size",
+            "font-style",
+            "font-size"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 148,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "boolean",
+            "null",
+            "object",
+            "undefined"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 149,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useEffect",
+            "useRef",
+            "useContext",
+            "useState"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 150,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "25",
+            "35",
+            "30",
+            "40"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 151,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "105\u00b0C",
+            "100\u00b0C",
+            "95\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 152,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<link>",
+            "<href>",
+            "<a>",
+            "<url>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 153,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "color",
+            "text-style",
+            "font-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 154,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "null",
+            "object",
+            "undefined",
+            "boolean"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 155,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "Java Syntax XML",
+            "JavaScript Extension",
+            "Java XML Syntax",
+            "JavaScript XML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 156,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "8",
+            "7",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 157,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "105\u00b0C",
+            "100\u00b0C",
+            "95\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 158,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markup Language",
+            "HyperText Markdown Language",
+            "Home Tool Markup Language",
+            "Hyper Trainer Marking Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 159,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "em",
+            "pt",
+            "px",
+            "%"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 160,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "boolean",
+            "object",
+            "undefined",
+            "null"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 161,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useContext",
+            "useRef",
+            "useEffect",
+            "useState"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 162,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "8",
+            "7",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 163,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Nitrogen",
+            "Carbon Dioxide"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 164,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<link>",
+            "<href>",
+            "<a>",
+            "<url>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 165,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-style",
+            "font-color",
+            "text-color",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 166,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "toInteger()",
+            "parse()",
+            "parseInt()",
+            "int()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 167,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript XML",
+            "Java XML Syntax",
+            "Java Syntax XML",
+            "JavaScript Extension"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 168,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.12",
+            "3.16",
+            "3.14",
+            "3.15"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 169,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 170,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<href>",
+            "<url>",
+            "<a>",
+            "<link>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 171,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "pt",
+            "px",
+            "%",
+            "em"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 172,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "boolean",
+            "object",
+            "null",
+            "undefined"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 173,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useEffect",
+            "useState",
+            "useContext",
+            "useRef"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 174,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "8",
+            "7",
+            "5",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 175,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "105\u00b0C",
+            "100\u00b0C",
+            "95\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 176,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Home Tool Markup Language",
+            "HyperText Markdown Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 177,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "font-color",
+            "text-color",
+            "text-style",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 178,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "object",
+            "boolean",
+            "null",
+            "undefined"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 179,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A style",
+            "A reusable UI block",
+            "A function",
+            "A variable"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 180,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "35",
+            "25",
+            "30",
+            "40"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 181,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "105\u00b0C",
+            "90\u00b0C",
+            "100\u00b0C",
+            "95\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 182,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<url>",
+            "<a>",
+            "<href>",
+            "<link>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 183,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "px",
+            "pt",
+            "%",
+            "em"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 184,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parseInt()",
+            "parse()",
+            "toInteger()",
+            "int()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 185,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useRef",
+            "useContext",
+            "useState",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 186,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.12",
+            "3.14",
+            "3.16",
+            "3.15"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 187,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 188,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<tr>",
+            "<table>",
+            "<row>",
+            "<td>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 189,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-style",
+            "color",
+            "font-color",
+            "text-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 190,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "toInteger()",
+            "int()",
+            "parseInt()",
+            "parse()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 191,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript Extension",
+            "Java XML Syntax",
+            "JavaScript XML",
+            "Java Syntax XML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 192,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.12",
+            "3.16",
+            "3.14",
+            "3.15"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 193,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Mars",
+            "Venus",
+            "Earth",
+            "Jupiter"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 194,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<url>",
+            "<link>",
+            "<a>",
+            "<href>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 195,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "text-style",
+            "font-color",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 196,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "set",
+            "define",
+            "var",
+            "new"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 197,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "Java XML Syntax",
+            "JavaScript XML",
+            "Java Syntax XML",
+            "JavaScript Extension"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 198,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "40",
+            "25",
+            "30",
+            "35"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 199,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "100\u00b0C",
+            "105\u00b0C",
+            "90\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 200,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<url>",
+            "<href>",
+            "<link>",
+            "<a>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 201,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "px",
+            "%",
+            "pt",
+            "em"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 202,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "define",
+            "new",
+            "var",
+            "set"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 203,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useState",
+            "useRef",
+            "useEffect",
+            "useContext"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 204,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "7",
+            "8",
+            "6",
+            "5"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 205,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "100\u00b0C",
+            "105\u00b0C",
+            "90\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 206,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markup Language",
+            "HyperText Markdown Language",
+            "Home Tool Markup Language",
+            "Hyper Trainer Marking Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 207,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "em",
+            "px",
+            "pt",
+            "%"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 208,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parse()",
+            "parseInt()",
+            "int()",
+            "toInteger()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 209,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useState",
+            "useRef",
+            "useContext",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 210,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.15",
+            "3.16",
+            "3.12",
+            "3.14"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 211,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen",
+            "Oxygen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 212,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Trainer Marking Language",
+            "HyperText Markup Language",
+            "HyperText Markdown Language",
+            "Home Tool Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 213,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "%",
+            "pt",
+            "px",
+            "em"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 214,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "boolean",
+            "object",
+            "null",
+            "undefined"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 215,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useRef",
+            "useState",
+            "useContext",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 216,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "8",
+            "5",
+            "7",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 217,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 218,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<href>",
+            "<link>",
+            "<url>",
+            "<a>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 219,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "px",
+            "em",
+            "%",
+            "pt"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 220,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "new",
+            "set",
+            "define",
+            "var"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 221,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A variable",
+            "A style",
+            "A reusable UI block",
+            "A function"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 222,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.12",
+            "3.16",
+            "3.15",
+            "3.14"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 223,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Venus",
+            "Jupiter"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 224,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<url>",
+            "<href>",
+            "<a>",
+            "<link>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 225,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "%",
+            "pt",
+            "em",
+            "px"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 226,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "boolean",
+            "undefined",
+            "object",
+            "null"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 227,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A function",
+            "A reusable UI block",
+            "A variable",
+            "A style"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 228,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "40",
+            "25",
+            "30",
+            "35"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 229,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "100\u00b0C",
+            "105\u00b0C",
+            "95\u00b0C",
+            "90\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 230,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markup Language",
+            "Hyper Trainer Marking Language",
+            "Home Tool Markup Language",
+            "HyperText Markdown Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 231,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "text-style",
+            "font-size",
+            "text-size",
+            "font-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 232,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parse()",
+            "parseInt()",
+            "toInteger()",
+            "int()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 233,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useContext",
+            "useState",
+            "useEffect",
+            "useRef"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 234,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 235,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "100\u00b0C",
+            "95\u00b0C",
+            "105\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 236,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markdown Language",
+            "Hyper Trainer Marking Language",
+            "Home Tool Markup Language",
+            "HyperText Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 237,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-style",
+            "color",
+            "font-color",
+            "text-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 238,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "int()",
+            "parseInt()",
+            "toInteger()",
+            "parse()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 239,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript XML",
+            "JavaScript Extension",
+            "Java XML Syntax",
+            "Java Syntax XML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 240,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "7",
+            "8",
+            "5",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 241,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Hydrogen",
+            "Nitrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 242,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Trainer Marking Language",
+            "HyperText Markdown Language",
+            "HyperText Markup Language",
+            "Home Tool Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 243,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "font-color",
+            "color",
+            "text-style"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 244,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "int()",
+            "parseInt()",
+            "parse()",
+            "toInteger()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 245,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript XML",
+            "Java XML Syntax",
+            "Java Syntax XML",
+            "JavaScript Extension"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 246,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "8",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 247,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Nitrogen",
+            "Hydrogen",
+            "Carbon Dioxide",
+            "Oxygen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 248,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<tr>",
+            "<row>",
+            "<table>",
+            "<td>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 249,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-style",
+            "text-color",
+            "color",
+            "font-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 250,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "define",
+            "set",
+            "new",
+            "var"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 251,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A function",
+            "A variable",
+            "A reusable UI block",
+            "A style"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 252,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "6",
+            "8",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 253,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "105\u00b0C",
+            "95\u00b0C",
+            "100\u00b0C",
+            "90\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 254,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Home Tool Markup Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markdown Language",
+            "HyperText Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 255,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "color",
+            "font-color",
+            "text-style",
+            "text-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 256,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parseInt()",
+            "parse()",
+            "toInteger()",
+            "int()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 257,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useState",
+            "useRef",
+            "useContext",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 258,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "30",
+            "35",
+            "25",
+            "40"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 259,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "100\u00b0C",
+            "105\u00b0C",
+            "90\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 260,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<a>",
+            "<url>",
+            "<link>",
+            "<href>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 261,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-size",
+            "text-size",
+            "text-style",
+            "font-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 262,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "null",
+            "boolean",
+            "undefined",
+            "object"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 263,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript XML",
+            "Java XML Syntax",
+            "JavaScript Extension",
+            "Java Syntax XML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 264,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "6",
+            "8",
+            "5",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 265,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Jupiter",
+            "Mars",
+            "Venus",
+            "Earth"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 266,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markdown Language",
+            "Hyper Trainer Marking Language",
+            "Home Tool Markup Language",
+            "HyperText Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 267,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-style",
+            "font-size",
+            "text-size",
+            "text-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 268,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "undefined",
+            "object",
+            "boolean",
+            "null"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 269,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A variable",
+            "A reusable UI block",
+            "A style",
+            "A function"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 270,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.15",
+            "3.14",
+            "3.12",
+            "3.16"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 271,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Jupiter",
+            "Earth",
+            "Venus",
+            "Mars"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 272,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markup Language",
+            "Hyper Trainer Marking Language",
+            "Home Tool Markup Language",
+            "HyperText Markdown Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 273,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "font-color",
+            "text-style",
+            "text-color",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 274,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "var",
+            "set",
+            "new",
+            "define"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 275,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A function",
+            "A variable",
+            "A style",
+            "A reusable UI block"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 276,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "30",
+            "25",
+            "35",
+            "40"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 277,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Earth",
+            "Jupiter"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 278,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<row>",
+            "<td>",
+            "<tr>",
+            "<table>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 279,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "pt",
+            "%",
+            "px",
+            "em"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 280,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "int()",
+            "toInteger()",
+            "parseInt()",
+            "parse()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 281,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A function",
+            "A variable",
+            "A reusable UI block",
+            "A style"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 282,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "35",
+            "30",
+            "25",
+            "40"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 283,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "105\u00b0C",
+            "90\u00b0C",
+            "95\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 284,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<a>",
+            "<url>",
+            "<href>",
+            "<link>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 285,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "pt",
+            "%",
+            "px",
+            "em"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 286,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "var",
+            "define",
+            "new",
+            "set"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 287,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useRef",
+            "useContext",
+            "useState",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 288,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "25",
+            "30",
+            "40",
+            "35"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 289,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Carbon Dioxide",
+            "Hydrogen",
+            "Nitrogen",
+            "Oxygen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 290,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<td>",
+            "<table>",
+            "<tr>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 291,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-size",
+            "text-size",
+            "font-style",
+            "text-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 292,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "boolean",
+            "undefined",
+            "null",
+            "object"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 293,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "Java XML Syntax",
+            "JavaScript Extension",
+            "Java Syntax XML",
+            "JavaScript XML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 294,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "6",
+            "8",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 295,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "100\u00b0C",
+            "90\u00b0C",
+            "105\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 296,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<url>",
+            "<a>",
+            "<link>",
+            "<href>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 297,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "pt",
+            "em",
+            "px",
+            "%"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 298,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "var",
+            "set",
+            "define",
+            "new"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 299,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A variable",
+            "A style",
+            "A function",
+            "A reusable UI block"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 300,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "8",
+            "7",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 301,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 302,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<table>",
+            "<td>",
+            "<tr>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 303,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "font-color",
+            "text-style",
+            "color",
+            "text-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 304,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parseInt()",
+            "toInteger()",
+            "int()",
+            "parse()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 305,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A variable",
+            "A function",
+            "A reusable UI block",
+            "A style"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 306,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "8",
+            "7",
+            "5",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 307,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Jupiter",
+            "Mars",
+            "Venus",
+            "Earth"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 308,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<tr>",
+            "<table>",
+            "<td>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 309,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-style",
+            "font-size",
+            "text-size",
+            "text-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 310,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parse()",
+            "toInteger()",
+            "int()",
+            "parseInt()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 311,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useContext",
+            "useState",
+            "useEffect",
+            "useRef"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 312,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.16",
+            "3.14",
+            "3.12",
+            "3.15"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 313,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "95\u00b0C",
+            "100\u00b0C",
+            "105\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 314,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<tr>",
+            "<table>",
+            "<td>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 315,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "pt",
+            "em",
+            "px",
+            "%"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 316,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "define",
+            "var",
+            "set",
+            "new"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 317,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript Extension",
+            "Java Syntax XML",
+            "JavaScript XML",
+            "Java XML Syntax"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 318,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.16",
+            "3.12",
+            "3.14",
+            "3.15"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 319,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "105\u00b0C",
+            "90\u00b0C",
+            "100\u00b0C",
+            "95\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 320,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<href>",
+            "<link>",
+            "<url>",
+            "<a>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 321,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "color",
+            "text-style",
+            "text-color",
+            "font-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 322,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parseInt()",
+            "toInteger()",
+            "parse()",
+            "int()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 323,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A function",
+            "A reusable UI block",
+            "A variable",
+            "A style"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 324,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "6",
+            "8",
+            "5",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 325,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Hydrogen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Oxygen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 326,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markup Language",
+            "Home Tool Markup Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markdown Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 327,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "em",
+            "pt",
+            "px",
+            "%"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 328,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parse()",
+            "int()",
+            "parseInt()",
+            "toInteger()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 329,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "Java XML Syntax",
+            "JavaScript XML",
+            "Java Syntax XML",
+            "JavaScript Extension"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 330,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "7",
+            "6",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 331,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "95\u00b0C",
+            "105\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 332,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<table>",
+            "<tr>",
+            "<td>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 333,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-style",
+            "text-size",
+            "font-size",
+            "text-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 334,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "object",
+            "undefined",
+            "boolean",
+            "null"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 335,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A reusable UI block",
+            "A function",
+            "A style",
+            "A variable"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 336,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "6",
+            "8",
+            "5",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 337,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "105\u00b0C",
+            "95\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 338,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<url>",
+            "<href>",
+            "<a>",
+            "<link>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 339,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-style",
+            "text-color",
+            "color",
+            "font-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 340,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "toInteger()",
+            "parseInt()",
+            "int()",
+            "parse()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 341,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useState",
+            "useEffect",
+            "useRef",
+            "useContext"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 342,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.15",
+            "3.16",
+            "3.14",
+            "3.12"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 343,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Venus",
+            "Jupiter"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 344,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<table>",
+            "<tr>",
+            "<td>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 345,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "px",
+            "%",
+            "em",
+            "pt"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 346,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "toInteger()",
+            "parse()",
+            "parseInt()",
+            "int()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 347,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useState",
+            "useEffect",
+            "useContext",
+            "useRef"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 348,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.16",
+            "3.15",
+            "3.14",
+            "3.12"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 349,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "95\u00b0C",
+            "100\u00b0C",
+            "105\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 350,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<td>",
+            "<table>",
+            "<tr>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 351,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "pt",
+            "em",
+            "%",
+            "px"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 352,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "var",
+            "new",
+            "set",
+            "define"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 353,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript Extension",
+            "JavaScript XML",
+            "Java Syntax XML",
+            "Java XML Syntax"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 354,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "40",
+            "30",
+            "35",
+            "25"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 355,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Hydrogen",
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 356,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<tr>",
+            "<td>",
+            "<row>",
+            "<table>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 357,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-size",
+            "text-style",
+            "font-style",
+            "text-size"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 358,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "set",
+            "new",
+            "define",
+            "var"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 359,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useContext",
+            "useRef",
+            "useState",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 360,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "6",
+            "5",
+            "8",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 361,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "100\u00b0C",
+            "90\u00b0C",
+            "105\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 362,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<tr>",
+            "<row>",
+            "<table>",
+            "<td>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 363,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "color",
+            "font-color",
+            "text-color",
+            "text-style"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 364,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parse()",
+            "parseInt()",
+            "toInteger()",
+            "int()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 365,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A reusable UI block",
+            "A function",
+            "A style",
+            "A variable"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 366,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 367,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "100\u00b0C",
+            "105\u00b0C",
+            "90\u00b0C",
+            "95\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 368,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Home Tool Markup Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markup Language",
+            "HyperText Markdown Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 369,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-style",
+            "font-color",
+            "text-color",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 370,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "null",
+            "undefined",
+            "object",
+            "boolean"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 371,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript Extension",
+            "Java Syntax XML",
+            "JavaScript XML",
+            "Java XML Syntax"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 372,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.16",
+            "3.14",
+            "3.15",
+            "3.12"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 373,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Hydrogen",
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 374,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<table>",
+            "<td>",
+            "<tr>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 375,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-style",
+            "text-color",
+            "font-color",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 376,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parseInt()",
+            "toInteger()",
+            "int()",
+            "parse()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 377,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "Java Syntax XML",
+            "JavaScript Extension",
+            "Java XML Syntax",
+            "JavaScript XML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 378,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "25",
+            "35",
+            "30",
+            "40"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 379,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "105\u00b0C",
+            "100\u00b0C",
+            "95\u00b0C",
+            "90\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 380,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<table>",
+            "<row>",
+            "<td>",
+            "<tr>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 381,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-style",
+            "text-size",
+            "text-style",
+            "font-size"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 382,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "set",
+            "var",
+            "define",
+            "new"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 383,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "Java Syntax XML",
+            "JavaScript XML",
+            "JavaScript Extension",
+            "Java XML Syntax"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 384,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.16",
+            "3.12",
+            "3.15",
+            "3.14"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 385,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Earth"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 386,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<href>",
+            "<a>",
+            "<url>",
+            "<link>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 387,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-style",
+            "font-color",
+            "color",
+            "text-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 388,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "var",
+            "set",
+            "new",
+            "define"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 389,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useRef",
+            "useEffect",
+            "useContext",
+            "useState"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 390,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 391,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "105\u00b0C",
+            "90\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 392,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<table>",
+            "<tr>",
+            "<row>",
+            "<td>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 393,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "em",
+            "pt",
+            "px",
+            "%"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 394,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "define",
+            "new",
+            "var",
+            "set"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 395,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A variable",
+            "A style",
+            "A function",
+            "A reusable UI block"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 396,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "30",
+            "40",
+            "25",
+            "35"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 397,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen",
+            "Carbon Dioxide"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 398,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<row>",
+            "<table>",
+            "<td>",
+            "<tr>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 399,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "text-style",
+            "color",
+            "font-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 400,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "null",
+            "boolean",
+            "object",
+            "undefined"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 401,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useState",
+            "useRef",
+            "useContext",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 402,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "35",
+            "40",
+            "25",
+            "30"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 403,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "95\u00b0C",
+            "105\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 404,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Trainer Marking Language",
+            "HyperText Markdown Language",
+            "HyperText Markup Language",
+            "Home Tool Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 405,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "text-style",
+            "color",
+            "font-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 406,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "int()",
+            "parseInt()",
+            "parse()",
+            "toInteger()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 407,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A variable",
+            "A function",
+            "A reusable UI block",
+            "A style"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 408,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "35",
+            "40",
+            "25",
+            "30"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 409,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "95\u00b0C",
+            "105\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 410,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<href>",
+            "<link>",
+            "<a>",
+            "<url>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 411,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "color",
+            "text-style",
+            "font-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 412,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "object",
+            "boolean",
+            "null",
+            "undefined"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 413,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useState",
+            "useRef",
+            "useContext",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 414,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.14",
+            "3.16",
+            "3.15",
+            "3.12"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 415,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "95\u00b0C",
+            "100\u00b0C",
+            "105\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 416,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<td>",
+            "<tr>",
+            "<row>",
+            "<table>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 417,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "pt",
+            "em",
+            "%",
+            "px"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 418,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "new",
+            "set",
+            "var",
+            "define"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 419,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript Extension",
+            "JavaScript XML",
+            "Java XML Syntax",
+            "Java Syntax XML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 420,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "25",
+            "35",
+            "30",
+            "40"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 421,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 422,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<href>",
+            "<link>",
+            "<a>",
+            "<url>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 423,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "text-style",
+            "font-color",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 424,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "set",
+            "new",
+            "var",
+            "define"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 425,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useContext",
+            "useRef",
+            "useState",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 426,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "40",
+            "25",
+            "35",
+            "30"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 427,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "100\u00b0C",
+            "105\u00b0C",
+            "95\u00b0C",
+            "90\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 428,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<td>",
+            "<tr>",
+            "<table>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 429,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "%",
+            "pt",
+            "px",
+            "em"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 430,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "new",
+            "var",
+            "define",
+            "set"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 431,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useState",
+            "useContext",
+            "useRef",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 432,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "6",
+            "5",
+            "7",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 433,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 434,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Home Tool Markup Language",
+            "HyperText Markdown Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 435,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "font-color",
+            "text-style",
+            "color",
+            "text-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 436,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "null",
+            "boolean",
+            "undefined",
+            "object"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 437,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useState",
+            "useRef",
+            "useContext",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 438,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "30",
+            "25",
+            "40",
+            "35"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 439,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Hydrogen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Oxygen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 440,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Trainer Marking Language",
+            "HyperText Markup Language",
+            "HyperText Markdown Language",
+            "Home Tool Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 441,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "font-color",
+            "color",
+            "text-style",
+            "text-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 442,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "new",
+            "define",
+            "var",
+            "set"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 443,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useRef",
+            "useState",
+            "useEffect",
+            "useContext"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 444,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "8",
+            "6",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 445,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "105\u00b0C",
+            "100\u00b0C",
+            "90\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 446,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<row>",
+            "<td>",
+            "<table>",
+            "<tr>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 447,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-style",
+            "color",
+            "text-color",
+            "font-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 448,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "set",
+            "new",
+            "define",
+            "var"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 449,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useRef",
+            "useState",
+            "useContext",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 450,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.15",
+            "3.14",
+            "3.16",
+            "3.12"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 451,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "95\u00b0C",
+            "100\u00b0C",
+            "105\u00b0C",
+            "90\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 452,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markdown Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markup Language",
+            "Home Tool Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 453,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "text-style",
+            "color",
+            "font-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 454,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "parse()",
+            "parseInt()",
+            "toInteger()",
+            "int()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 455,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript Extension",
+            "Java XML Syntax",
+            "JavaScript XML",
+            "Java Syntax XML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 456,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "7",
+            "5",
+            "8",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 457,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "105\u00b0C",
+            "95\u00b0C",
+            "100\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 458,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markdown Language",
+            "HyperText Markup Language",
+            "Home Tool Markup Language",
+            "Hyper Trainer Marking Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 459,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "text-size",
+            "font-style",
+            "font-size",
+            "text-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 460,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "int()",
+            "parseInt()",
+            "toInteger()",
+            "parse()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 461,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useRef",
+            "useState",
+            "useEffect",
+            "useContext"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 462,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "8",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 463,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Hydrogen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Oxygen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 464,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<row>",
+            "<tr>",
+            "<table>",
+            "<td>"
+        ],
+        "answer": "<tr>"
+    },
+    {
+        "id": 465,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "font-color",
+            "text-style",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 466,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "set",
+            "new",
+            "var",
+            "define"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 467,
+        "topic": "React",
+        "question": "What is a React component?",
+        "options": [
+            "A reusable UI block",
+            "A variable",
+            "A function",
+            "A style"
+        ],
+        "answer": "A reusable UI block"
+    },
+    {
+        "id": 468,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "35",
+            "30",
+            "25",
+            "40"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 469,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Earth",
+            "Jupiter"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 470,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<a>",
+            "<url>",
+            "<href>",
+            "<link>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 471,
+        "topic": "CSS",
+        "question": "Which unit is relative to the font-size of the element?",
+        "options": [
+            "em",
+            "%",
+            "pt",
+            "px"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 472,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "boolean",
+            "object",
+            "undefined",
+            "null"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 473,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useEffect",
+            "useRef",
+            "useState",
+            "useContext"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 474,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "6",
+            "8",
+            "7",
+            "5"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 475,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Hydrogen",
+            "Nitrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 476,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markdown Language",
+            "Home Tool Markup Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 477,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-style",
+            "text-size",
+            "font-size",
+            "text-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 478,
+        "topic": "JavaScript",
+        "question": "Which method is used to parse a string to integer?",
+        "options": [
+            "toInteger()",
+            "parse()",
+            "parseInt()",
+            "int()"
+        ],
+        "answer": "parseInt()"
+    },
+    {
+        "id": 479,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "Java XML Syntax",
+            "JavaScript Extension",
+            "Java Syntax XML",
+            "JavaScript XML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 480,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.15",
+            "3.16",
+            "3.14",
+            "3.12"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 481,
+        "topic": "Science",
+        "question": "Water boils at what temperature in Celsius?",
+        "options": [
+            "90\u00b0C",
+            "100\u00b0C",
+            "95\u00b0C",
+            "105\u00b0C"
+        ],
+        "answer": "100\u00b0C"
+    },
+    {
+        "id": 482,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markdown Language",
+            "Home Tool Markup Language",
+            "HyperText Markup Language",
+            "Hyper Trainer Marking Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 483,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-size",
+            "font-style",
+            "text-style",
+            "text-size"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 484,
+        "topic": "JavaScript",
+        "question": "What will typeof null return?",
+        "options": [
+            "object",
+            "undefined",
+            "null",
+            "boolean"
+        ],
+        "answer": "object"
+    },
+    {
+        "id": 485,
+        "topic": "React",
+        "question": "JSX stands for?",
+        "options": [
+            "Java Syntax XML",
+            "JavaScript XML",
+            "JavaScript Extension",
+            "Java XML Syntax"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 486,
+        "topic": "Math",
+        "question": "What is the value of \u03c0 (pi) up to 2 decimal places?",
+        "options": [
+            "3.12",
+            "3.14",
+            "3.16",
+            "3.15"
+        ],
+        "answer": "3.14"
+    },
+    {
+        "id": 487,
+        "topic": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Jupiter",
+            "Mars",
+            "Earth",
+            "Venus"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 488,
+        "topic": "HTML",
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<link>",
+            "<href>",
+            "<a>",
+            "<url>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 489,
+        "topic": "CSS",
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-style",
+            "font-size",
+            "text-size",
+            "text-style"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 490,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "define",
+            "new",
+            "var",
+            "set"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 491,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useRef",
+            "useContext",
+            "useState",
+            "useEffect"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 492,
+        "topic": "Math",
+        "question": "What is 15% of 200?",
+        "options": [
+            "35",
+            "40",
+            "25",
+            "30"
+        ],
+        "answer": "30"
+    },
+    {
+        "id": 493,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Hydrogen",
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 494,
+        "topic": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Home Tool Markup Language",
+            "HyperText Markup Language",
+            "Hyper Trainer Marking Language",
+            "HyperText Markdown Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "id": 495,
+        "topic": "CSS",
+        "question": "What property is used to change text color in CSS?",
+        "options": [
+            "text-color",
+            "text-style",
+            "font-color",
+            "color"
+        ],
+        "answer": "color"
+    },
+    {
+        "id": 496,
+        "topic": "JavaScript",
+        "question": "Which keyword is used to declare a variable?",
+        "options": [
+            "new",
+            "define",
+            "set",
+            "var"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": 497,
+        "topic": "React",
+        "question": "Which hook is used to handle state?",
+        "options": [
+            "useRef",
+            "useEffect",
+            "useContext",
+            "useState"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 498,
+        "topic": "Math",
+        "question": "What is the square root of 49?",
+        "options": [
+            "5",
+            "8",
+            "7",
+            "6"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 499,
+        "topic": "Science",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen",
+            "Oxygen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 500,
+        "topic": "HTML",
+        "question": "Which tag defines a table row?",
+        "options": [
+            "<table>",
+            "<tr>",
+            "<td>",
+            "<row>"
+        ],
+        "answer": "<tr>"
+    }
+]
